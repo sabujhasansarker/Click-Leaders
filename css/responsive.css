@@ -1,0 +1,85 @@
+/* medium layout: 1280px. */
+
+@media only screen and (min-width:992px) and (max-width: 1200px) {}
+
+
+
+/* tablet layout: 768px */
+@media only screen and (min-width: 768px) and (max-width: 991px) 
+
+
+{
+    
+    
+    
+}
+
+/*mobile layout: 320px */
+
+@media only screen and (max-width: 767px) 
+
+{    
+    .banner-text>h1 {
+        font-size: 33px;
+    }
+    .sec3-img>img {width: 70%;
+        margin-top: 24px;}
+
+img {}
+
+.heading {
+    font-size: 20px;
+}
+
+p.heading-text {
+    font-size: 14px;
+    width: 77%;
+    margin: 0 auto;
+}
+input.form-btn {
+    width: 44%;
+}
+.banner-text>h1 {
+    font-size: 25px;
+}
+
+.banner-text>p {
+    font-size: 15px;
+}
+
+ul.manu {
+}
+
+p {}
+
+.sec2-text {
+    font-size: 14px;
+}
+
+.section2.sec {
+    min-height: 300px;
+}
+
+.section3.sec {
+    height: 211px;
+}
+
+h2.sub-heading {
+    font-size: 20px;
+}
+
+.support {;
+    height: 63px;
+}
+    
+}
+
+/* wide mobile layout: 480px */
+
+@media only screen and (min-width: 480px) and (max-width: 767px) 
+
+{
+
+
+}
+
